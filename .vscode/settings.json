@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./knausj_talon-master/lang/talon"
+    ]
+}
